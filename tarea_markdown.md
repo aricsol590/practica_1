@@ -26,6 +26,8 @@ $$\int_{=\infty}^\infty e^(-x^2) = \sqrt{\pi}$$
 
 **Fichero markdown:** [Fichero](enlace_markdown.md)
 
+**Tarea markdown:** [Tarea_Markdown_HTML](tarea_markdown.html)
+
 ### Imagen
 
 ![Foto](mar.png)
